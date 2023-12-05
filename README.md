@@ -1,7 +1,7 @@
 ## Amazon eCommerce-Project
 
 # Introduction
-Amazon is one of the most infamous brands and is often referred to as "one of the most influential economic and cultural forces in the world". 
+Amazon is an infamous brand and is often referred to as "one of the most influential economic and cultural forces in the world". 
 I recently completed my Google Digital Marketing & E-Commerce Specialization, and I wanted to see how I could utilize what I had recently learned in conjunction with some exploratory data analysis. 
 
 # The Data
